@@ -1,0 +1,17 @@
+.App{
+  text-align: center;
+}
+
+.fi{
+  width: 20em;
+  line-height: 20em;
+}
+
+.correct{
+  color: green;
+}
+
+.incorrect{
+  color: red;
+}
+
